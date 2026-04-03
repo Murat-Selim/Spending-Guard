@@ -70,7 +70,7 @@ export default function Home() {
     }
   }
 
-  const truncateAddress = (addr: string) => `${addr.slice(0, 6)}...${addr.slice(-4)}`
+  const truncateAddress = (addr: string) => addr ? `${addr.slice(0, 6)}...${addr.slice(-4)}` : 'N/A'
   const copyAddress = () => {
     if (status?.agentAddress) {
       navigator.clipboard.writeText(status.agentAddress)
