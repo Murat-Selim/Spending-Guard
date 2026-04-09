@@ -1,1 +1,25 @@
-{}
+{
+  "2026-04-09": {
+    "total": "0.003",
+    "txs": [
+      {
+        "hash": "0x12fdaefa9b429b0cceff91f754c723a104050daeb1dab7c58c29094f31a82606",
+        "to": "0x6374B101994e769C11D2BCCEE4278dFD8dd21d76",
+        "value": "0.001",
+        "time": "2026-04-09T17:26:22.973Z"
+      },
+      {
+        "hash": "0x9e5c9a06bcbe8f543eaf91a0132d41b27e845668ef7fee053844eaa4ecc6c6a5",
+        "to": "0xf0E1D5A1Aa4DdA4E24115831f887a95064d8cF8A",
+        "value": "0.001",
+        "time": "2026-04-09T17:26:53.623Z"
+      },
+      {
+        "hash": "0xbc90e49987352ed657d0136e32715f6bcc8eb39f7015bb4cb2b603f8a5bc30d7",
+        "to": "0x6374B101994e769C11D2BCCEE4278dFD8dd21d76",
+        "value": "0.001",
+        "time": "2026-04-09T17:27:25.593Z"
+      }
+    ]
+  }
+}
